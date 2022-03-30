@@ -1,0 +1,25 @@
+{
+  "name": "instagram-scraper",
+  "version": "1.0.0",
+  "description": "An instagram scraper created for @vhrita portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhrita/instagram-scraper.git"
+  },
+  "keywords": [
+    "instagram",
+    "scraper",
+    "portfolio",
+    "posts"
+  ],
+  "author": "vhrita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vhrita/instagram-scraper/issues"
+  },
+  "homepage": "https://github.com/vhrita/instagram-scraper#readme"
+}
